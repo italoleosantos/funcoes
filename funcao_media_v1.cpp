@@ -1,5 +1,4 @@
 #include <iostream>
-#include <math.h>
 
 using namespace std;
 
@@ -29,7 +28,7 @@ int main() {
 
 	media_aluno = calculo(n1,n2,n3,n4);
 	
-	cout << " \nA média final do aluno é " << media_aluno;
+	cout << "\nA média final do aluno é " << media_aluno;
 
 	return 0;
 }
