@@ -1,5 +1,4 @@
 #include <iostream>
-#include <math.h>
 
 using namespace std;
 
@@ -24,7 +23,7 @@ int main() {
 
 	media_aluno = mediaturma(nota,soma);
 	
-	cout << " \nA média final do aluno é " << media_aluno;
+	cout << "\nA média final do aluno é " << media_aluno;
 	
 	return 0;
 }
